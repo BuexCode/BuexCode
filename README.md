@@ -1,7 +1,7 @@
 # BuexCode
 
 The name BuexCode is derived from the geman word "ausbüxen" /aúsbüxen/ `<ausb&uumlxen>`  and is a colloquial synonym for
-- high end german -> entkommen, abhauen, sich davonmachenm 
+- high end german -> entkommen, abhauen, sich davonmachen
 - english -> escape
 - dutch -> ontsnappen
 - in other languages --> [Google Translator](https://translate.google.com/?sl=de&tl=en&text=ausb%C3%BCxen&op=translate)
