@@ -6,7 +6,7 @@ The name BuexCode is derived from the geman word "ausbüxen" /aúsbüxen/ `<aus
 - dutch -> ontsnappen
 - in other languages --> [Google Translator](https://translate.google.com/?sl=de&tl=en&text=ausb%C3%BCxen&op=translate)
 
-BuexCode stands for not more and not less then Code for Escape Room Games (Wikipedia [DE](https://de.wikipedia.org/wiki/Escape_Game)[EN](https://en.wikipedia.org/wiki/Escape_room)
+BuexCode stands for not more and not less then Code for Escape Room Games (Wikipedia [DE](https://de.wikipedia.org/wiki/Escape_Game) / [EN](https://en.wikipedia.org/wiki/Escape_room)
 
 Working on a real escape rooms and we started to work on options to use IT/IOT technologies to complement the classic puzzles with new and yet rarely used IT supported quests - basicly to support the crazy innovative ideas of the creative head, iniitiator and founder of the Escape Room Center to be established.
 
