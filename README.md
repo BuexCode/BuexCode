@@ -13,8 +13,8 @@ Working on a real escape rooms and we started to work on options to use IT/IOT t
 ... long story ...
 
 As more and more devices come into play and with gaining complexity we (I) found that classic old school versioning, release and rollout managment etc -all depending on single head knowledge- are requiring lot of effort and become a risky escape game itself.
-We (I) decided to go the next step and ibtroduce git and guthub with moving from Arduino to more up to date programming environments liek VSCode at the same time.
+We (I) decided to go the next step and ibtroduce a decenral version management (git) and move to GitHub along with moving from Arduino IDO to more up to date programming environments liek VSCode at the same time.   
 
-We pulled a lot of knowledge and reference code from the community are willing to give something back, Actually anything has tobe kept private as publishing would mean talking ablout secrets --- the intimcy of the quests. Taking the chance to solve them within the game :-)
+We pulled a lot of knowledge and reference code from the community are willing to give something back, Actually anything has to be kept private as publishing would mean talking ablout secrets --- the intimacy of the quests. Taking the chance to solve them within the game :-)
 
 Giving something back the community is something we plan, most likely this will be guidance and snippets how we worked around issues using arduino/esp stuff stable and effectively. 
