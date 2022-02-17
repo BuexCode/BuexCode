@@ -12,4 +12,4 @@
 - each in a virtual own "Sub loop"
 - Manage Ressources conservatively 
 - Cooperative Multitasking / TimeWheelSlot concept 
-- Standard variables separated from quest specific naming 
+- Standard variables as far as meaningful seperated from quest specific naming 
